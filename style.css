@@ -1,0 +1,17 @@
+body{
+  background-color: #000000;
+}
+
+#start{
+  text-align: right;
+  font-size: medium;
+  color: black;
+}
+
+a:hover{
+  background-color: white;
+}
+
+a:visited{
+  background-color: white;
+}
