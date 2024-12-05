@@ -8,7 +8,7 @@ form.addEventListener('submit', function(event) {
     const passwordInput = document.getElementById('passwordInput').value;
 
     if (passwordInput === correctPassword) {
-        window.location.href = "placeholderUntilDone.html";
+        window.location.href = "the-void.html";
     } else {
         attempts++;
         if (attempts >= maxAttempts) {
